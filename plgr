@@ -1,0 +1,4 @@
+A=range(1,999)
+for i in A:
+  if i%2==0
+  print i
