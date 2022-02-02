@@ -2,3 +2,4 @@ Arbuz=range(500,3500)
 for waga in Arbuz:
   if waga>1000 and waga<1100:
       print(waga,float(round(waga/150, 2)))
+      print(spoko)
